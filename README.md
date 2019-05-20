@@ -1,3 +1,5 @@
+extracted from oh-my-zsh
+
 # copyfile plugin
 
 Puts the contents of a file in your system clipboard so you can paste it anywhere.
